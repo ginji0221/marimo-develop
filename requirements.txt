@@ -1,1 +1,4 @@
 marimo==0.15.1
+marimo[recommended]
+marimo[sql]
+pandas==2.3.2
